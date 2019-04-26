@@ -40,7 +40,7 @@ Empowering you to use machine learning to get valuable insights from data.
 🇨🇳 - If you are from China or another country where Google is blocked, checkout the links above to the other free services like [Jupyter Binder](https://mybinder.org/v2/gh/GokuMohandas/practicalAI/master). Also check out [Kesci](https://www.kesci.com/home/column/5c20e4c5916b6200104eea63) for the content in Chinese.
 
 
-## Contributing to notebooks
+## Contributing to notebooks 
 1. Make your changes and download the Google colab notebook as an `.ipynb` file.
 
 <img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/download_ipynb.png">
